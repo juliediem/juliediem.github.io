@@ -55,12 +55,12 @@
             "bgVideo": {
               "width": 1280,
               "height": 720,
-              "url": "https://www.youtube.com/embed/iXkboOwnFsk?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+              "url": "https://www.youtube.com/embed/dk5CIbmXSbA?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
             "bgVideoRadio": true,
             "overlay": true,
             "overlayOpacity": 0.5,
-            "overlayColor": "#000",
+            "overlayColor": "#000000",
             "contentAlign": "right",
             "showTitle": true,
             "showText": true,
