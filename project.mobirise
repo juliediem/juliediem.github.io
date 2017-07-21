@@ -7,8 +7,8 @@
       "title": "Mobirise 3",
       "styling": {
         "primaryColor": "#ec252c",
-        "secondaryColor": "#bfcecb",
-        "successColor": "#90a878",
+        "secondaryColor": "#ec252c",
+        "successColor": "#ec252c",
         "infoColor": "#7e9b9f",
         "warningColor": "#ec252c",
         "dangerColor": "#f28281",
@@ -59,7 +59,7 @@
             },
             "bgVideoRadio": true,
             "overlay": true,
-            "overlayOpacity": 0.5,
+            "overlayOpacity": "0.7",
             "overlayColor": "#000000",
             "contentAlign": "right",
             "showTitle": true,
@@ -94,13 +94,13 @@
               "color": "#c0a375"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#000000"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -122,7 +122,7 @@
           "_name": "menu",
           "_anchor": "menu-0",
           "_params": {
-            "bgColor": "#282828",
+            "bgColor": "#000000",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
